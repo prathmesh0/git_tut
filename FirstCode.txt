@@ -4,3 +4,6 @@ add the values
 
 submit data to the datbase
 add avatar
+
+add user authentication
+add login signup etc
